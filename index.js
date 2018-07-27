@@ -14,7 +14,6 @@ function logWhisper(string){
 }
 function sayHiToGrandma(spy){
  const lowercase = "I can't hear you"
- const uppercase = "Yes indeed!"
  If (lowercase.toLowerCase ())=== lowercase{
   return "I can't hear you!"}
 }
