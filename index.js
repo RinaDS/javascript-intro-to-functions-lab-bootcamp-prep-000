@@ -9,5 +9,5 @@ function logShout(){
   console.log(spy.toUpperCase())
 }
 function logWhisper(string){
-  console.log(string.toLowerCase)
+  console.log(spy.toLowerCase)
 }
