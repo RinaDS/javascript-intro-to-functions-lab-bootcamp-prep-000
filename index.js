@@ -19,6 +19,6 @@ function sayHiToGrandma(spy){
 }
 function sayHiToGrandmaToo(spy){
   const uppercase = "Yes Indeed"
-  uppercase.toUpperCase() === uppercase
+  uppercase.toUpperCase() === lowercase
   return "Yes indeed!"
 }
