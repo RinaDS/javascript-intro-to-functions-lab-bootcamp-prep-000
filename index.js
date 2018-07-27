@@ -16,8 +16,7 @@ function sayHiToGrandma(string){
  const lowercase = "I can't hear you"
  lowercase.toLowerCase () === lowercase
   return "I can't hear you!"
-}
-var uppercase = "Yes Indeed"
-if (sayHiToGrandma === uppercase) {
+}const uppercase = "Yes Indeed"
+if (sayHiToGrandma() === uppercase) {
   return "Yes Indeed!"
 }
