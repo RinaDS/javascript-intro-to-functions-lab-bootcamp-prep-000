@@ -18,4 +18,6 @@ function sayHiToGrandma(string){
   return "I can't hear you!"
 }
 var uppercase = "Yes Indeed"
-if (sayHiToGrandma) === uppercase
+if (sayHiToGrandma) === uppercase {
+  return "Yes Indeed!"
+}
