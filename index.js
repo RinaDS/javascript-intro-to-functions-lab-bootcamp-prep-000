@@ -17,6 +17,3 @@ function sayHiToGrandma(string){
  lowercase.toLowerCase () === lowercase
   return "I can't hear you!"
 }
-if (sayHiToGrandma(string) === uppercase) {
-  return "Yes Indeed!"
-}
